@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+# apache-airflow   # only needed to run airflow_dag.py
